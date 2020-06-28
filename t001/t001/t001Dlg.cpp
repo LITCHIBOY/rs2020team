@@ -1,6 +1,6 @@
 ﻿
 // t001Dlg.cpp: 实现文件
-//
+//我擦莫的那款内存卡吧就看不到可能
 
 #include "pch.h"
 #include "framework.h"
